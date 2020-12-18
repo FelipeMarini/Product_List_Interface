@@ -1,0 +1,13 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\obj\Debug\netcoreapp3.1\Interface.csprojAssemblyReference.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
